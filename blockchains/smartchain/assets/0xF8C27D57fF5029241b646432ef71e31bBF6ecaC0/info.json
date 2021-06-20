@@ -1,0 +1,10 @@
+"name": "CNOTE",
+"website": "https://cnotemedia.com",
+"description": "CNOTE is a music industry token for song sharing and concert tickets.",
+"explorer": "https://bscscan.com/token/0xf8c27d57ff5029241b646432ef71e31bbf6ecac0",
+"type": "BEP20",
+"symbol": "CNOTE",
+"decimals": 9,
+"status": "active",
+"id": "0xf8c27d57ff5029241b646432ef71e31bbf6ecac0"
+}
